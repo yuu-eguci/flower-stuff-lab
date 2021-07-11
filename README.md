@@ -1,6 +1,8 @@
 flower-stuff-lab
 ===
 
+🚚 This repository was exported to [python-mate/flower-stuff-lab](https://github.com/python-mate/flower-stuff-lab) and was archived.
+
 🌻 FlowerStuff project; this repository is for experiment. This repository was constructed to enable each member be able to fetch other members' experiment results and to share them. And to each member be able to execute them on the Google Colaboratory.
 
 ⚗️ 「花のやつ」プロジェクト、研究用リポジトリです。このリポジトリは、「メンバーそれぞれが、他メンバーの研究結果を簡単に取得、共有できて」「メンバーそれぞれが、他メンバーの研究結果を Colaboratory でかんたんに実行できる」ことを目指して構築されました。 Colaboratory ってこういうふうに GitHub に保存しながら使うものではないことはわかっているけれど、最初に思いついたのがこういうやり方だったのでとりあえずこれでやってみるよ。
